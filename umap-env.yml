@@ -1,0 +1,5 @@
+name: umap-env
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/maori2/opt/anaconda3/envs/ofc_schema/envs/umap-env
