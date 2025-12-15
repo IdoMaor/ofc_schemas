@@ -2,7 +2,7 @@
 
 This repository contains the analysis and figure-generation code accompanying the manuscript  
 **“Persistent representation of a prior schema in the orbitofrontal cortex facilitates learning of a conflicting schema.”**
-
+DOI: 10.5281/zenodo.17945155
 All scripts and notebooks reproduce the primary analyses and figures using the dataset published on Figshare.
 
 ---
