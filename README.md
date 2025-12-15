@@ -11,10 +11,10 @@ All scripts and notebooks reproduce the primary analyses and figures using the d
 
 | File / Folder | Description |
 |----------------|-------------|
-| `Persistent-representation-of-a-prior-schema-.ipynb` | Main analysis notebook reproducing all figures **except Figure 5** (behavioral, electrophysiological, and DREADD analyses). Uses the `new_schema_env.yml` environment. |
+| `Persistent-representation-of-a-prior-schema-updated.ipynb` | Main analysis notebook reproducing all figures **except Figure 5** (behavioral, electrophysiological, and DREADD analyses). Uses the `new_schema_env.yml` environment. |
 | `umap_ccgp.ipynb` | Dedicated notebook for **Figure 5**, which includes the UMAP and CCGP population-geometry analyses. Uses the `umap-env` environment. |
 | `new_schema_env.yml` | Conda environment file specifying dependencies for the main analysis. |
-| `umap-env.yml` | *(to be added)* Environment file for the UMAP/CCGP analyses. |
+| `umap-env.yml` |  Environment file for the UMAP/CCGP analyses. |
 | `README.md` | This document. |
 
 ---
@@ -61,7 +61,7 @@ Reproducing Figures
 Download and unpack the dataset from Figshare.
 Activate the matching environment (new_schema_env or umap-env).
 Open the corresponding notebook:
-Persistent-representation-of-a-prior-schema-.ipynb → Figures 1–4 & 6–8
+Persistent-representation-of-a-prior-schema-updated.ipynb → Figures 1–4 & 6–8
 umap_ccgp.ipynb → Figure 5
 Run all cells sequentially to reproduce the figures and results.
 
